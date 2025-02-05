@@ -1,14 +1,6 @@
-# **NOTE**
-
-This is a fork of the original [TvDatafeed](https://github.com/rongardF/tvdatafeed.git) project by StreamAlpha. This fork has live data retrieving feature implemented. 
-More information about this will be found in the TvDatafeedLive section down below in the README.
-
 # **TvDatafeed**
 
 A simple TradingView historical Data Downloader. Tvdatafeed allows downloading upto 5000 bars on any of the supported timeframe.
-
-If you found the content useful and want to support my work, you can buy me a coffee!
-[![](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/StreamAlpha)
 
 ## Installation
 
